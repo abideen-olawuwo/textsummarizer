@@ -25,7 +25,7 @@ https://github.com/abideen-olawuwo/End-to-end-Text-Summarization
 ```bash
 conda create -n summary python=3.8 -y
 ```
-
+    
 ```bash
 conda activate summary
 ```
